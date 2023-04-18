@@ -10,4 +10,4 @@ open http://localhost:3000/auth/register
 
 ## Run Casdoor
 cd ./casdoor\
-docker compose up -d\
+docker compose up -d
